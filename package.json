@@ -1,0 +1,26 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mi-reu/react-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mi-reu/react-hooks/issues"
+  },
+  "homepage": "https://github.com/mi-reu/react-hooks#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.48",
+    "typescript": "^4.0.2"
+  }
+}
