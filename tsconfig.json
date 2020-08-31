@@ -1,5 +1,5 @@
 {
-  "include": ["src"],
+  "include": ["./packages"],
   "compilerOptions": {
     "target": "ES5",
     "module": "ESNext",
